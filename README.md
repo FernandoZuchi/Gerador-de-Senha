@@ -1,0 +1,1 @@
+Primeiro projeto que estou desenvolvendo nas férias do estágio e da faculdade. Escolhi este simples projeto para usar num formato de conteúdo da Codi Academy (Projeto Prático). Onde fazemos lives e vídeos de projetos como este para ensinar os alunos.
